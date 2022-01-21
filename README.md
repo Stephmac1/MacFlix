@@ -2,4 +2,4 @@
 
 ### Projeto DIO: Criando um app simples de cadastro de séries em .NET
 
-###Aplinando os conhecimentos adquiridos sobre Programação Orientada a Objetos em C#
+### Aplicando os conhecimentos adquiridos sobre _Programação Orientada a Objetos_ em C#.   
